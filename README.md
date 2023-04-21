@@ -11,6 +11,7 @@ Actualizar y Guardar el mismo boton dependiendo de la operacion
 ![image](https://user-images.githubusercontent.com/27839997/233735419-da14f296-c6c8-441b-a095-e5120b4c56a3.png)
 
 Actualizado
+
 ![image](https://user-images.githubusercontent.com/27839997/233735884-3a41b476-699a-4922-9890-c645f88e4084.png)
 
 
